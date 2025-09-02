@@ -10,10 +10,10 @@
   text-decoration: none;
 }
 .btn:hover{
-  transform: traslateY(-10px);
+  transform: translateY(-10px);
 }
 .btn:active{
-  transform: traslateY(0);
+  transform: translateY(0);
 
 }
 .btn.outline{
